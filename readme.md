@@ -5,3 +5,5 @@
 para ejecutar el sistema debes poner
 
 ````npm install react````
+
+juego del amigo secreto 2
