@@ -1,1 +1,1 @@
-console ("ejecutando elsistema")
+console.log ("ejecutando el sistema")
